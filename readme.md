@@ -28,3 +28,7 @@ Probando el texto con decoraciones en markdown, _esto debería ser cursivas_ mie
 ```js
 console.log("Hola");
 ```
+
+#### Imagen
+
+![Imagen de bugs bunny diciendo no](https://imgs.search.brave.com/FjBMh3ZngxZCLG1UVVmcDGDM4y_6fn12NgL8m8MUwSI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS50ZW5vci5jb20v/X1lwX0hzUko1dElB/QUFBTS9uby1idWdz/LWJ1bm55LmdpZg.gif)
